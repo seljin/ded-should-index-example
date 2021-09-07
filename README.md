@@ -10,9 +10,9 @@ How to test :
 
 > pip install -r requirements.txt
 
-> ./manage.py migrate
-
 > Change ELASTICSEARCH_DSL['default']['hosts'] in settings.py
+
+> ./manage.py migrate
 
 > ./manage.py shell
 >> from pizzeria.models import Pizza <br>
