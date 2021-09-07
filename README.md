@@ -1,0 +1,1 @@
+# ded-should-index-example
